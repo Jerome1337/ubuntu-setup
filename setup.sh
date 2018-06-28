@@ -16,6 +16,8 @@ sudo -s <<EOF
       php-cli \
       php-mbstring \
       php-xml \
+      php-gd \
+      php-intl \
       unzip
 
     # Docker
